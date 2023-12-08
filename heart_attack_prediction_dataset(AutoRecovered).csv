@@ -1,4 +1,4 @@
-Age,Sex,BMI,Cholesterol,Heart Rate,Alcohol Consumption,Diabetes,Family History,Smoking,Obesity,Stress Level,Previous Heart Problems,Medication Use,Heart Attack Risk
+Age,Sex,BMI,Cholesterol,Heart Rate,Alcohol Consumption,Diabetes,Family History,Smoking,Obesity,Stress Level,Previous Heart Problems,Medication Use,Risk
 67,Male,31.25123273,208,72,0,0,0,1,0,9,0,0,0
 21,Male,27.19497335,389,98,1,1,1,1,1,1,1,0,0
 21,Female,28.17657068,324,72,0,1,0,0,0,9,1,1,0
